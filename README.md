@@ -7,3 +7,10 @@ First navigate to the directory where the file is lacated. Therefor the `cd path
 
 ## Result 
 After the execution your terminal should print the following result.  
+![alt text](https://github.com/KilianProbst/HelloWorld/blob/main/scr/images/HelloWorld.PNG)
+
+## Code 
+For printing out the hello world statement the following python code was used 
+```python
+print("Hello World!")
+```
